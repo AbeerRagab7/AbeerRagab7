@@ -2,15 +2,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E5B7D5&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+My+name+is+Abeer+Ragab;I'm+25+years+old+;I'm+from+Egypt;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
 
-[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abeer-M-Ali&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbeerRagab7&bg_color=0d1117&color=e5b7be&line=e5b7be&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abeer-M-Ali&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbeerRagab7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> -->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Abeer-M-Ali&show_icons=true&count_private=true&hide_border=true&title_color=e5b7be&icon_color=e5b7be&text_color=c9d1d9&bg_color=0d1117" alt="Abeer-M-Ali github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeer-M-Ali&layout=compact&hide_border=true&title_color=e5b7be&text_color=e5b7be&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AbeerRagab7&show_icons=true&count_private=true&hide_border=true&title_color=e5b7be&icon_color=e5b7be&text_color=c9d1d9&bg_color=0d1117" alt="AbeerRagab7 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerRagab7&layout=compact&hide_border=true&title_color=e5b7be&text_color=e5b7be&bg_color=0d1117" />
 </div>
 
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Abeer-M-Ali}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AbeerRagab7}/count.svg"/></p> 
 <br>
 </div>
 
